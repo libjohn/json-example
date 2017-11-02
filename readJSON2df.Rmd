@@ -1,0 +1,26 @@
+---
+title: "read JSON data into a dataframe"
+---
+
+```{r}
+library(jsonlite)
+library(tidyverse)
+```
+
+
+## read data into dataframe
+
+```{r}
+mydf <-  fromJSON("data/example-data.json")
+
+easydf <- remove_rownames(mydf$records$fields)
+
+easydf 
+
+```
+
+
+
+
+
+

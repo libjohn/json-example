@@ -1,0 +1,14 @@
+{
+	"records":[
+		{
+			"id":"recHfj3x4fp8NbLSM",
+			"fields":{
+				"link":"http://databank.worldbank.org/data/reports.aspx?source=world-development-indicatorsWorld",
+				"Title":"WDI",
+				"abstract":"Development Indicators (WDI) is the primary World Bank collection of development indicators, compiled from officially recognized international sources. It presents the most current and accurate global development data available, and includes national, regional and global estimates. [Note: Even though Global Development Finance (GDF) is no longer listed in the WDI database name, all external debt and financial flows data continue to be included in WDI. The GDF publication has been renamed International Debt Statistics (IDS), and has its own separate database, as well."},
+				"createdTime":"2017-10-15T13:12:00.000Z"
+				
+				},{"id":"recKwlE7G3OS06ST6","fields":{"link":"http://data.imf.org.proxy.lib.duke.edu/?sk=4C514D48-B6BA-49ED-8AB9-52B0C1A0179B","Title":"IFS","abstract":"The International Financial Statistics database covers about 200 countries and areas, with some aggregates calculated for selected regions, plus some world totals. Topcis covered include balance of payments, commodity prices, exchange rates, fund position, government finance, industrial production, interest rates, international investment position, international liquidity, international transactions, labor statistics, money and banking, national accounts, population, prices, and real effective exchange rates."},"createdTime":"2017-10-15T13:12:00.000Z"},{"id":"reccYX8ZdxeUvoc9B","fields":{"link":"http://www.oecd-ilibrary.org.proxy.lib.duke.edu/statistics;jsessionid=7qerm8e77380a.x-oecd-live-03","Title":"iLibrary","abstract":"Provides the full text (in PDF format) of all journals and books published by the Organization for Economic Co-operation and Development (OECD) since 1998. The statistical section of the OECD portal includes the OECD Statistical Compendium, Main Economic Indicators, and a wide variety of other statistics. Selected indicators include agriculture, banking, education, development, direct investment, employment, globalization, health, industry, insurance, migration, national accounts, revenue, science, services, social expenditure, technology, telecommunications, and trade."},"createdTime":"2017-10-15T13:12:00.000Z"}
+			
+			]
+			}
