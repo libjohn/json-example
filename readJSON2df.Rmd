@@ -11,14 +11,13 @@ library(tidyverse)
 ## read data into dataframe
 
 ```{r}
-mydf <-  fromJSON("data/example-data.json")
+mylist <-  fromJSON("data/example-data.json")
 
-easydf <- remove_rownames(mydf$records$fields)
+mydf <- remove_rownames(mylist$records$fields)
 
-easydf 
+mydf
 
 ```
-
 
 
 
