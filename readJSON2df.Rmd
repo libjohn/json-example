@@ -13,6 +13,10 @@ library(tidyverse)
 ```{r}
 mylist <-  fromJSON("data/example-data.json")
 
+mylist
+```
+
+```{r}
 mydf <- remove_rownames(mylist$records$fields)
 
 mydf
@@ -20,6 +24,11 @@ mydf
 ```
 
 
+### Alternative Example using Purrr
+```{r}
+library(purrr)
 
+unnest(mylist$records$fields, link)
+```
 
 
